@@ -1,7 +1,7 @@
 # Arduinofire #
-### a simple environmental/fire/gas sensor. ###
+### a simple environmental/fire/gas sensor ###
 
-* Please be nice, this is literally my first Ardunio/Teensy project! *
+*Please be nice, this is literally my first Ardunio/Teensy project!*
 
 This is the beginning of something that I am going to use to monitor
 shared workshop space that consists of kilns, torches, forges, and
